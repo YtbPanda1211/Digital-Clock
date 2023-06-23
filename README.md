@@ -1,2 +1,2 @@
 # DongHoKyThuatSo
-# Đồng Hồ Ký Thuật Số
+# Đồng Hồ Kỹ Thuật Số
